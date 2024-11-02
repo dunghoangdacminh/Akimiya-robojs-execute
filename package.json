@@ -1,5 +1,5 @@
 {
-	"name": "mrjawesome-dev-toolkit-ts",
+	"name": "akimiya-robojs-execute",
 	"description": "An all-in-one toolkit for developers by MrJAwesome.",
 	"version": "1.0.0",
 	"type": "module",
@@ -22,6 +22,7 @@
 		"upgrade": "sage upgrade"
 	},
 	"dependencies": {
+		"@robojs/moderation": "^0.3.1",
 		"discord.js": "^14.16.3",
 		"mongoose": "^8.7.2",
 		"robo.js": "^0.10.22"
